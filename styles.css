@@ -13,6 +13,8 @@
 }
 
 .menu {
-    border: 1px solid #fff;  /* For debugging */
+    border: 1px solid #fff;
     width: 900px;
+    display: flex;
+    justify-content: space-around;
 }
